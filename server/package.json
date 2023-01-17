@@ -1,0 +1,40 @@
+{
+  "name": "p2-cms-integration-server",
+  "version": "1.0.0",
+  "description": "CMS Integration - Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand --forceExit",
+    "dev": "nodemon bin/www.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmt-28-bouvardia-fox/p2-cms-integration-server.git"
+  },
+  "keywords": [],
+  "author": "Pascal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmt-28-bouvardia-fox/p2-cms-integration-server/issues"
+  },
+  "homepage": "https://github.com/rmt-28-bouvardia-fox/p2-cms-integration-server#readme",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "google-auth-library": "^8.5.1",
+    "happi-dev-sdk": "^1.0.26",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.8.0",
+    "sequelize": "^6.23.0"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2",
+    "nodemon": "^2.0.20",
+    "sequelize-cli": "^6.4.1",
+    "supertest": "^6.3.0"
+  }
+}

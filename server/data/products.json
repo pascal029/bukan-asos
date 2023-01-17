@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Larder",
+        "description": "M",
+        "price": 100000,
+        "stock": 43,
+        "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-hoodie-in-off-white/202887744-1-whisperwhite?$n_320w$&wid=317&fit=constrain",
+        "categoryId": 4,
+        "authorId": 1
+    }, 
+    {
+        "name": "Gaspar",
+        "description": "L",
+        "price": 200000,
+        "stock": 10,
+        "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-sweatshirt-in-washed-brown/202883957-1-peppercorn?$n_320w$&wid=317&fit=constrain",
+        "categoryId": 1,
+        "authorId": 1
+    }, 
+    {
+        "name": "Coxon",
+        "description": "S",
+        "price": 300000,
+        "stock": 8,
+        "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-joggers-in-off-white/202883728-1-whisperwhite?$n_320w$&wid=317&fit=constrain",
+        "categoryId": 4,
+        "authorId": 1
+}, {
+  "name": "Dunton",
+  "description": "XL",
+  "price": 400000,
+  "stock": 11,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-tapered-joggers-in-grey-marl/200869595-1-greymarl?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 2,
+  "authorId": 1
+}, {
+  "name": "Aris",
+  "description": "M",
+  "price": 500000,
+  "stock": 67,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-half-zip-sweatshirt-in-black-polar-fleece/202887503-1-black?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 1,
+  "authorId": 1
+}, {
+  "name": "MacSporran",
+  "description": "XL",
+  "price": 600000,
+  "stock": 68,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-sweatshirt-in-navy/202882238-1-navyblazer?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 1,
+  "authorId": 1
+}, {
+  "name": "Greve",
+  "description": "3XL",
+  "price": 700000,
+  "stock": 4,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-hoodie-in-washed-burgundy/202888620-1-sundriedtomato?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 3,
+  "authorId": 1
+}, {
+  "name": "Casini",
+  "description": "2XL",
+  "price": 800000,
+  "stock": 44,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-sweatshirt-in-yellow/202882271-1-palebanana?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 1,
+  "authorId": 1
+}, {
+  "name": "Symers",
+  "description": "L",
+  "price": 900000,
+  "stock": 34,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-sweatshirt-in-yellow/202882271-1-palebanana?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 1,
+  "authorId": 1
+}, {
+  "name": "Firmin",
+  "description": "2XL",
+  "price": 1000000,
+  "stock": 30,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-joggers-in-forest-green/202882407-1-pondarosapine?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 2,
+  "authorId": 1
+}, {
+  "name": "McLean",
+  "description": "2XL",
+  "price": 1100000,
+  "stock": 70,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-hoodie-in-beige/202888509-1-whitepepper?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 2,
+  "authorId": 1
+}, {
+  "name": "Summerfield",
+  "description": "2XL",
+  "price": 1200000,
+  "stock": 50,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-sweatshirt-in-off-white/202883884-1-whisperwhite?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 3,
+  "authorId": 1
+}, {
+  "name": "Gress",
+  "description": "XS",
+  "price": 1300000,
+  "stock": 92,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-hoodie-in-washed-brown/202888298-1-peppercorn?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 4,
+  "authorId": 1
+}, {
+  "name": "Maryon",
+  "description": "L",
+  "price": 1400000,
+  "stock": 75,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-joggers-in-washed-black/202884115-1-asphalt?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 4,
+  "authorId": 1
+}, {
+  "name": "Getch",
+  "description": "3XL",
+  "price": 1500000,
+  "stock": 16,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-hoodie-in-pastel-blue/202888397-1-skywriting?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 2,
+  "authorId": 1
+}, {
+  "name": "Baskwell",
+  "description": "M",
+  "price": 1600000,
+  "stock": 87,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-zip-through-hoodie-in-washed-purple/202888482-1-nirvana?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 1,
+  "authorId": 1
+}, {
+  "name": "St Pierre",
+  "description": "2XL",
+  "price": 1700000,
+  "stock": 67,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-skinny-joggers-in-grey-marl/200869346-1-greymarl?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 4,
+  "authorId": 1
+}, {
+  "name": "Raraty",
+  "description": "3XL",
+  "price": 1800000,
+  "stock": 34,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-skinny-joggers-in-black/200869254-1-black?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 1,
+  "authorId": 1
+}, {
+  "name": "Brazenor",
+  "description": "S",
+  "price": 1900000,
+  "stock": 99,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-heavyweight-oversized-zip-through-hoodie-in-washed-brown/202887654-1-peppercorn?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 1,
+  "authorId": 1
+}, {
+  "name": "Gallico",
+  "description": "XL",
+  "price": 2000000,
+  "stock": 93,
+  "imgUrl": "https://images.asos-media.com/products/asos-design-puffer-jacket-with-hood-in-brown/202345239-1-brown?$n_320w$&wid=317&fit=constrain",
+  "categoryId": 4,
+  "authorId": 1
+}]
